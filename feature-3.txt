@@ -1,7 +1,2 @@
 one more something
-<<<<<<< HEAD
-
-feature-4
-=======
-feature-fetature-feture-5
->>>>>>> feature-5
+dopler feature4
